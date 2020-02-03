@@ -1,2 +1,6 @@
-# Sample
-This tutorial tend to inform myself and other to learn how to use Github or Git
+# Example Repository
+This is a sample repo, Hello Kabakat!
+
+
+# Don't be confused it's just a sample
+Tell me something about yourself
