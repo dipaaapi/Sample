@@ -1,6 +1,6 @@
-# Example Repository
-This is a sample repo, Hello Kabakat!
+# Sample Portfolio
+This is a sample Portfolio
 
 
 # Don't be confused it's just a sample
-Tell me something about yourself
+starting to learn new things ;)
